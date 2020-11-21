@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">App_Ejemplo</string>
+    <string name="app_name">Ejemplo DSA</string>
+    <string name="texto_principal">Hola Mundo</string>
 </resources>
