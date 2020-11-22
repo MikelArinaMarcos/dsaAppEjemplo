@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Ejemplo DSA</string>
     <string name="texto_principal">Hola Mundo</string>
+    <string name="accept_conditions">Acepta las condiciones</string>
 </resources>
