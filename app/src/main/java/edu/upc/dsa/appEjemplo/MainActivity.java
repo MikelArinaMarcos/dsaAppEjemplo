@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
         Log.d("MY APP", "Han aceptado las condiciones");
 
         Intent intent = new Intent(MainActivity.this, ChildActivity.class);
+        intent.putExtra("nombre", "Mikel");
         startActivity(intent);
     }
 }
